@@ -1,0 +1,15 @@
+order_id,customer,region,product,quantity,unit_price,order_date
+1001,Acme Corp,West,Widget A,5,19.99,2026-01-05
+1002,Globex Inc,East,Widget B,3,24.50,2026-01-06
+1003,Acme Corp,west,Widget A,2,19.99,2026-01-07
+1004,Initech,East,Widget C,,15.00,2026-01-08
+1005,Umbrella LLC,South,Widget B,4,24.50,2026-01-09
+1006,Globex Inc,East,Widget B,3,24.50,2026-01-06
+1007,Soylent Co,North,Widget A,7,19.99,01/10/2026
+1008,Acme Corp,West,widget a,1,19.99,2026-01-11
+1009,Initech,east,Widget C,6,-15.00,2026-01-12
+1010,Umbrella LLC,South,Widget D,2,,2026-01-13
+1011,Stark Industries,West,Widget A,3,19.99,2026-01-14
+1012,Soylent Co,North,Widget B,999,24.50,2026-01-15
+1013,Wayne Enterprises,,Widget C,4,15.00,2026-01-16
+1014,Acme Corp,West,Widget A,5,19.99,2026-01-05
